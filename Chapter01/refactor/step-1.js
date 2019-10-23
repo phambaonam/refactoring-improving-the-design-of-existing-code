@@ -264,3 +264,5 @@ function statement(invoice) {
 
     return result;
 }
+
+// Extracting Volume Credits - page 14
